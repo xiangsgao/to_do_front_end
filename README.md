@@ -6,4 +6,4 @@ NEXT_PUBLIC_API_URL=http://localhost:5000
 replace http://localhost:5000 with your own backend url
 
 next run yarn install
-then run yarn run start
+then run yarn run dev
